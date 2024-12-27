@@ -1,0 +1,53 @@
+Hyderabad->Vijayawada:307.20,Mumbai:711.30,Chennai:627.40,Bangalore:569.80,Kazipet:195.30,Secunderabad:10.50
+Secunderabad->Nagpur:491.70,Warangal:140.60,Vijayawada:352.90,Kazipet:186.20,Hyderabad:10.50
+Kazipet->Vijayawada:282.40,Warangal:75.10,Nagpur:280.40,Balharshah:252.80,Secunderabad:186.20
+Bangalore->Goa:556.10,Pune:835.60,Mysore:143.70,Mumbai:981.20,Chennai:334.30,Hyderabad:569.80
+Chennai->Madurai:462.40,Coimbatore:506.40,Kolkata:1662.10,Vijayawada:431.50,Bangalore:334.30,Hyderabad:627.40
+Mumbai->Ahmedabad:524.10,Delhi:1412.10,Nagpur:843.20,Goa:587.20,Pune:149.60,Bangalore:981.20
+Vijayawada->Kolkata:879.60,Hyderabad:307.20,Bhubaneswar:440.30,Visakhapatnam:352.90,Chennai:431.50,Secunderabad:352.90
+Visakhapatnam->Hyderabad:613.20,Bhubaneswar:441.40,Chennai:802.60,Kolkata:824.70,Vijayawada:352.90
+Kolkata->Ranchi:398.40,Bhubaneswar:441.70,Visakhapatnam:824.70,Gaya:447.80,Patna:532.70
+Pune->Hyderabad:561.20,Ahmedabad:662.10,Nashik:211.40,Goa:436.50,Mumbai:149.60
+Goa->Hyderabad:672.20,Mangalore:359.80,Bangalore:561.20,Pune:436.50,Mumbai:587.20
+Nagpur->Hyderabad:491.70,Raipur:290.20,Pune:714.70,Jabalpur:315.20,Bhopal:415.60,Balharshah:69.10
+Ahmedabad->Jaipur:619.30,Udaipur:260.50,Rajkot:215.40,Surat:263.80,Pune:662.10,Mumbai:524.10
+Coimbatore->Ooty:85.40,Kochi:191.60,Trivandrum:381.50,Chennai:506.40,Mysore:204.60
+Mysore->Ooty:125.20,Coimbatore:204.60,Goa:553.40,Chennai:482.80,Bangalore:143.70
+Balharshah->Bhopal:656.90,Raipur:389.50,Nagpur:69.10,Kazipet:252.80
+Bhopal->Gwalior:424.70,Delhi:773.20,Indore:187.80,Jhansi:344.30,Nagpur:415.60
+Nashik->Aurangabad:181.20,Surat:231.70,Indore:441.90,Mumbai:168.70,Pune:211.40
+Ooty->Trivandrum:403.20,Kochi:270.20,Coimbatore:85.40,Mysore:125.20
+Trivandrum->Chennai:770.20,Bangalore:679.10,Mysore:471.20,Coimbatore:381.50,Kochi:206.10
+Kochi->Goa:686.50,Chennai:683.50,Mysore:372.30,Trivandrum:206.10,Coimbatore:191.60
+Patna->Ranchi:331.80,Dhanbad:266.10,Kolkata:532.70,Gaya:127.50,Allahabad:358.90
+Gaya->Ranchi:192.50,Kolkata:447.80,Patna:127.50,Varanasi:244.30
+Surat->Baroda:149.40,Ahmedabad:263.80,Nashik:231.70,Mumbai:263.80
+Rajkot->Bhavnagar:177.60,Surat:424.80,Jamnagar:89.70,Ahmedabad:215.40
+Udaipur->Jodhpur:244.20,Ahmedabad:260.50,Jaipur:393.60,Indore:389.10
+Jaipur->Jodhpur:339.10,Ahmedabad:619.30,Delhi:274.40,Indore:571.30,Gwalior:260.90,Agra:309.70
+Jhansi->Lucknow:292.10,Agra:256.40,Kanpur:226.50,Gwalior:103.90,Bhopal:344.30
+Indore->Ahmedabad:442.60,Udaipur:389.10,Jaipur:571.30,Nashik:441.90,Bhopal:187.80
+Gwalior->Delhi:317.40,Jaipur:309.70,Agra:118.50,Jhansi:103.90
+Agra->Delhi:219.10,Kanpur:274.80,Lucknow:330.10,Mathura:56.40,Gwalior:118.50
+Lucknow->Delhi:514.40,Kanpur:90.30,Gorakhpur:270.90,Allahabad:204.70,Varanasi:286.80,Agra:330.10
+Varanasi->Kolkata:678.70,Ranchi:326.20,Patna:255.80,Gaya:244.30,Allahabad:122.60,Lucknow:286.80
+Allahabad->Kanpur:193.30,Ranchi:340.40,Patna:358.90,Varanasi:122.60,Lucknow:204.70
+Mathura->Jaipur:233.70,Aligarh:44.30,New Delhi:141.60,Agra:56.40
+Jodhpur->Ahmedabad:455.30,Bikaner:252.10,Jaisalmer:278.20,Jaipur:338.40,Udaipur:244.20
+New Delhi->Kanpur:441.70,Agra:219.10,Shimla:342.20,Amritsar:448.10,Jaipur:277.50,Chandigarh:243.80,Mathura:141.60
+Aligarh->Kanpur:297.10,Lucknow:398.90,Agra:128.60,New Delhi:44.30
+Jaisalmer->Jaipur:622.30,Barmer:157.60,Bikaner:330.70,Jodhpur:278.20
+Bikaner->Ajmer:248.30,Jaisalmer:330.70,Jaipur:338.40,Jodhpur:252.10
+Chandigarh->Manali:310.30,Shimla:116.20,Jaipur:507.30,Amritsar:244.80,New Delhi:243.80
+Amritsar->Jalandhar:80.70,Ludhiana:139.30,Jammu:200.40,New Delhi:448.10,Chandigarh:244.80
+Shimla->Leh:711.30,Manali:256.10,Dehradun:221.30,Chandigarh:116.20,Jammu:324.50
+Jammu->Leh:688.10,Srinagar:267.10,Shimla:324.50,New Delhi:577.60,Amritsar:200.40
+Dehradun->Delhi:248.40,Rishikesh:43.30,Haridwar:52.60,Chandigarh:138.70,Shimla:221.30
+Manali->Leh:479.10,Chandigarh:310.30,Shimla:256.10
+Leh->Shimla:711.30,Jammu:688.10,Manali:479.10,Srinagar:421.30
+Srinagar->Leh:421.30,Jammu:267.10
+Haridwar->Rishikesh:21.30,Delhi:204.90,Chandigarh:206.80,Dehradun:52.60
+Jamnagar->Kutch:245.10,Ahmedabad:304.80,Surat:511.10,Rajkot:89.70
+Bhavnagar->Baroda:198.70,Ahmedabad:170.30,Surat:357.40,Rajkot:177.60
+Baroda->Indore:339.60,Bhavnagar:198.70,Surat:149.40,Ahmedabad:149.40
+Ajmer->Jodhpur:208.40,Udaipur:259.80,Bikaner:248.30,Jaipur:135.10
